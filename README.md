@@ -11,17 +11,17 @@
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
-  --bg:#09090A;
-  --bg2:#111113;
-  --bg3:#18181B;
-  --surface:#1F1F23;
-  --border:rgba(255,255,255,0.07);
-  --border2:rgba(255,255,255,0.14);
-  --text:#EDE8DF;
-  --muted:#6B6760;
-  --muted2:#9A9590;
-  --accent:#FF5200;
-  --accent2:#FF7A38;
+--bg:#09090A;
+--bg2:#111113;
+--bg3:#18181B;
+--surface:#1F1F23;
+--border:rgba(255,255,255,0.07);
+--border2:rgba(255,255,255,0.14);
+--text:#EDE8DF;
+--muted:#6B6760;
+--muted2:#9A9590;
+--accent:#FF5200;
+--accent2:#FF7A38;
 }
 html{scroll-behavior:smooth}
 body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;font-size:16px;line-height:1.6;overflow-x:hidden}
